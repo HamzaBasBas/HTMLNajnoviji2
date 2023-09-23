@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+  <head>
+		<title>Stranica</title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="main.css">
+  </head>
+  <body>
+	<div class="header">
+	 <div class="column">
+		<div id="logo-i-social">
+		<div id="logo-holder">
+		<img alt="Loading logo..." 
+		src="assets/img/fcb.svg">
+		</div>
+		<div id="social-holder">
+		
+		<a href="#">
+		<img alt="Facebook"
+		src="assets/img/facebook.svg">
+		</a>
+		
+		
+		<a href="#">
+		<img alt="Instagram"
+		src="assets/img/instagram2.svg">
+		</a>
+		<a href="#">
+		<img alt="Twitter"
+		src="assets/img/twitter-icon.svg">
+		</a>
+		<a href="#">
+		<img alt="TikTok"
+		src="assets/img/tiktok.svg">
+		</a>
+		</div>
+		</div>
+			<nav id="main-menu">
+	         <a  href="#" class="active">Početna</a>
+	         <a href="#">O nama</a>
+	         <a href="#">Proizvodi</a>
+	         <a href="#">Karijera</a>
+	         <a href="#">Kontakt</a>
+			</nav>
+		</div>
+	</div>
+	<div class="page" id="pocetna">
+	<div class="column">
+	<h1>NajNaj IT Rjesenja</h1>
+	 <div class="zatamljen-box">
+	 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	 Nunc elementum, metus id tincidunt suscipit,
+	 ex velit blandit lectus, vitae faucibus dui magna a turpis.</p>
+	 <p>Phasellus pulvinar molestie metus at convallis.
+	 Curabitur venenatis, lacus euismod tincidunt condimentum
+	 enim ex scelerisque metus. </p>
+	 </div>
+	</div>
+	</div>
+	<div class="page" id="o-nama">
+	<div class="column">3</div>
+	</div>
+	<div class="page" id="usluge">
+	<div class="column">4</div>
+	</div>
+	<div class="page" id="proizvodi">
+	<div class="column">5</div>
+	</div>
+	<div class="page" id="karijera">
+	<div class="column">6</div>
+	</div>
+	<div class="page" id="kontakt">
+	<div class="column">7</div>
+	</div>
+	<div class="footer">
+	<div class="column">8</div>
+	</div>
+  </body>
+</html>
